@@ -1,7 +1,7 @@
 import numpy as np
 
 def fun1():
-	a = np.array([[12312321, 213, 3], [4, 5, 6]])
+	a = np.array([[1, 2, 3], [4333, 5324234, 62423]])
 	print(a)
 
 fun1()
@@ -9,3 +9,4 @@ fun1()
 print("ahsiodhasoidho")
 
 print(12321)
+print(127389)
