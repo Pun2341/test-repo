@@ -6,4 +6,7 @@ def fun1():
 
 fun1()
 
+print("ahsiodhasoidho")
+
+print(12321)
 print(127389)
